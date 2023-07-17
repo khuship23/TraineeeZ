@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028457796559",
+    "project_id": "traineeez-data-base",
+    "storage_bucket": "traineeez-data-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028457796559:android:761870795dda03d336f8ba",
+        "android_client_info": {
+          "package_name": "com.example.traineeez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028457796559-0maoqdk01rq00b1h5kmpujh04po3uu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8JTdt_hhTdzNRZWWPtDlNwzBnjN2Ek8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028457796559-0maoqdk01rq00b1h5kmpujh04po3uu0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

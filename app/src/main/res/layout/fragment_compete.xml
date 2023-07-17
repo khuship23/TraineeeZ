@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".competeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#78B6E6"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView"
+
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="TODO"
+            android:src="@drawable/taineeezlogob"
+            tools:ignore="ContentDescription,RtlHardcoded" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="Compete"
+            android:textSize="30dp"
+            android:textStyle="bold|italic" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:textSize="35dp"
+        android:textColor="@color/darkblue"
+        android:layout_marginLeft="10sp"
+        android:textStyle="bold"
+        android:text="@string/competitions_fests_workshops_and_more" />
+
+    <View
+        android:layout_width="150dp"
+        android:layout_height="4dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="190dp"
+        android:background="@color/yellow">
+    </View>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:textSize="15sp"
+        android:textColor="@color/darkblue"
+        android:text=" Participate in various opportunities to showcase your skills
+         and get rewarded!!!
+" />
+
+    <TextView
+        android:id="@+id/explore"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="60dp"
+        android:background="@drawable/backgroundblue"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/darkblue"
+        android:gravity="center"
+        android:text="Explore Now" />
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/graybackground"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="220dp"
+        android:gravity="center"
+        android:text="Host Opportunity" />
+
+
+    <ImageButton
+        android:id="@+id/ivCompete"
+        android:layout_width="150dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/compete"
+        app:cardCornerRadius="10dp"
+
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/ivhackathon"
+        android:layout_width="150dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/hackanton"
+        app:cardCornerRadius="10dp"
+        tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_marginTop="440dp"
+        android:background="@color/black">
+
+    </View>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"
+        android:textStyle="bold"
+        android:textColor="@color/darkblue"
+        android:textSize="20sp"
+        android:text="@string/compele_amp_join_dream_companies" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="500dp"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            tools:ignore="VisualLintBounds">
+
+            <ImageView
+                android:id="@+id/ivdesign"
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:src="@drawable/design"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:src="@drawable/designtcs" />
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:src="@drawable/design" />
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:src="@drawable/design" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+</FrameLayout>

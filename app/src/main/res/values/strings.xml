@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TraineeeZ</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_mail_address">Enter your mail address</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_user_name">Enter your User Name</string>
+    <string name="welcome_back">Welcome Back!!!</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_account_signup">Don\'t have account? SignUp</string>
+    <string name="already_have_account_signin">Already have account? SIGNIN</string>
+    <string name="learn">Learn</string>
+    <string name="mentors">Mentors</string>
+    <string name="home">Home</string>
+    <string name="compete">Compete</string>
+    <string name="profile">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_learn">learnActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="competitions_fests_workshops_and_more">Competitions, Fests, Workshops , &amp; more!</string>
+    <string name="compele_amp_join_dream_companies"><![CDATA[Compete & Join dream Companies :]]></string>
+    <string name="traineeez_nschool">TraineeeZ\nSchool</string>
+    <string name="kickstart_your_journey_forward_your_dream_job_with_couses_that_make_you_outstanding">Kickstart your journey forward your dream job with couses that make you Outstanding!!!</string>
+    <string name="accouncement">Accouncement</string>
+</resources>
