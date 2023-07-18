@@ -39,7 +39,8 @@ application for Android.
 
 
 
-![image](https://github.com/khuship23/TraineeeZ/assets/129517420/8d02e652-a282-48d9-843b-4c45372539ff)
+![appss](https://github.com/khuship23/TraineeeZ/assets/129517420/e26d275b-09ee-41c4-aa6f-1b8527275dc1)
+
 
 3.1 Conclusion:
 With the help of this android application , one can :
