@@ -53,4 +53,6 @@ With the help of this android application , one can :
 
 
 
-
+## Contributors
+- vsmp47
+- Karishmashah20
